@@ -7,7 +7,7 @@ In this project, Azure Network Security Groups(NSGs) and Application Security Gr
 <img src="https://user-images.githubusercontent.com/91347931/157526438-6da4f68b-db88-4931-a041-8474e66d3fe5.png" height="85%" width="85%" alt="Network and Application Security Groups Diagram"/>
 </p>
 
-<h2>Languages and Environments Used (PaaS Component </h2>
+<h2>Languages and Environments Used (PaaS Components) </h2>
 
 - <b>Command Prompt</b> 
 - <b>Azure VMs</b>
